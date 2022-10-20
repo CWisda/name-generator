@@ -1,4 +1,4 @@
- #Random Name Generator
+ # Random Name Generator
 1. Selects from a pool of at least ten names of your classmates
 2. Contains `Generate Random Names` button that initiates the selection of 4 random names (duplicate names are OK)
 3. The selected random names are displayed to the browser
